@@ -3,8 +3,14 @@ layout: default
 ---
 
 
-Welcome to our landing page for biostatistics and machine learning courses, run by NBIS, SciLifeLab bioinformatics platform, Sweden. 
-The courses are gearded towards PhD students, researches, and university staff in Sweden who analyze life science research data. 
+Welcome to our landing page for week-long biostatistics and machine learning courses!
+
+- **For who?** For PhD students, researches, and university staff in Sweden who analyze life science research data.
+- **By whom?** By NBIS, SciLifeLab bioinformatics platform, Sweden.
+- **Where?** At Uppsala Biomedical Centre, Uppsala, Sweden.
+
+Currently, we run two courses. A basic one, Introduction to Biostatistics and Machine Learning, and more advanced one, Machine Learning for Life Sciences.
+
 
 ## Introduction to Biostatistics and Machine Learning
 
