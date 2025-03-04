@@ -1,8 +1,7 @@
 ---
-layout: page
-title: "New Page Title"
-permalink: /new-page/
+layout: default
 ---
+
 
 ## Introduction to Biostatistics and Machine Learning
 
