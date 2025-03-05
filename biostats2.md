@@ -6,50 +6,54 @@ layout: default
 
 This national course is for PhD students, researchers, and university staff in Sweden who want to deepen their skills in biostatistics and machine learning for life sciences. The course builds on basic concepts like hypothesis testing and PCA and moves into more advanced topics. We will cover methods for analyzing complex life science data, including techniques beyond PCA for reducing data dimensions, mixed-effects models for repeated measures, and survival analysis. We will explore classification methods, ensemble techniques, optimization strategies, and PLS methods for analyzing single and multi-omics data. The focus is on practical applications, helping participants apply these tools to real biological datasets.
 
-
 ## <img border="0" src="assets/icons/content.svg" width="40" height="40"> Course content
-- Probability theory
-- Hypothesis testing and confidence intervals
-- Resampling
-- Linear regression methods
-- Introduction to generalized linear models
-- Model evaluation
-- Unsupervised learning incl. clustering and dimension reduction methods
-- Supervised learning incl. classification
+- Dimensionality reduction beyond PCA
+- Classification algorithms & ensemble techniques
+- Machine learning optimization strategies
+- PLS-based methods for single and multi-omics data analysis
+- Mixed-effect models for repeated measures, longitudinal studies and nested designs 
+- Survival analysis
+- Introduction to neural networks
 
 ## <img border="0" src="assets/icons/outcome.svg" width="40" height="40"> Learning outcomes
-- Summarize and visualize data using descriptive statistics.
-- Understand probability, random variables, and key distributions
-- Compute sampling distributions and standard errors
-- Perform hypothesis testing using resampling techniques and parametric testing
-- Implement and interpret linear regression and classification models
-- Assess (generalized) linear model performance and assumptions
-- Apply Principal Component Analysis for dimensionality reduction
-- Use clustering methods like k-means and hierarchical clustering
-- Understand and apply Random Forest for classification and regression
-- Compare machine learning models using evaluation metrics
-- Use structured machine learning model building and evaluation
+- Machine Learning Workflow: understand and implement core ML stages in R and Python, covering data preprocessing, model selection, training, and evaluation.
+- Dimension Reduction: understand and apply advanced techniques like UMAP and t-SNE for high-dimensional data analysis and understand their relationship to PCA.
+- Classification Models: implement and tune RF, SVM, and logistic regression models using grid search for classification tasks.
+- Ensemble Methods: understand concepts of bagging, boosting, and stacking, and apply AdaBoost and XGBoost for classification and regression tasks.
+- PLS Analysis: Implement PLS, PLS-DA, and sPLS for single- and multi-omics data, including variable selection.
+- Mixed Effects Models: apply mixed models to complex biological data, focusing on repeated measures and longitudinal designs.
+- Survival Analysis: understand censored data, calculate Kaplan-Meier estimators to estimate survival functions, compare survival curves, and perform regression analysis with Cox proportional hazards models, handling time-dependent covariates and competing risks.
+- Gain foundational knowledge of CNNs and RNNs; understand LLMs in life sciences and apply pre-trained models for cell-type classification and gene expression prediction.
+- Integration Challenge: synthesize course methods in a final challenge, implementing ML workflows and statistical models on real-world data.
 
 ## <img border="0" src="assets/icons/education.svg" width="40" height="40"> Education
-- In this course we focus on an **active learning approach**. The course participants are expected to do some pre-course reading and exercises, corresponding up to 40h studying. The education consists of teaching blocks alternating between lectures, exercises, group discussions, live coding sessions etc.
+- In this course we focus on an **active learning approach**. We alternate between lectures, live coding sessionns, exercises and group discussions.
 
-- While we focus on biostatistics and machine learning, not coding, some coding is needed and the examples used are in **R** programming langugage. See below for entry requriements.
+- While we focus on biostatistics and machine learning, not coding, some coding is needed and the examples used are in **R** and **Python** programming langugages. See below for entry requriements.
 
 ## <img border="0" src="assets/icons/enter.svg" width="40" height="40"> Entry requirements
-- Basic R programming skills
-    - using R as calculator
-    - being able to work with vectors and matrices, incl. subsetting and matrices multiplication 
-    - reading in data from .csv files, e.g. with read_csv()
-    - printing top few rows or last few rows, e.g. with head() and tail()
-    - using in-built summary functions such as sum(), min() or max()
-    - being able to use documentation pages for R functions, e.g. with help() or ?()
-    - using if else statements, writing simple loops and functions.
-    - making simple plots (scatter plots, histograms), both with plot() and ggplot()
-    - using tidyverse() for data transformations, e.g. filtering rows, selecting columns, creating new columns etc. 
-    - being able to install CRAN packages e.g. with install.packages()
-    - being familiar with R Markdown or Quatro format
-- No prior biostatistical knowledge is assumed, only basic math skills (pre-course studying materials will be available upon course acceptance). 
-- BYOL (bring your own laptop) with R and R Studio installed
+- Having basic knowledge of descriptive statistics, hypothesis testing and linear regression or having attended the [Introduction to Biostatistics and Machine Learning course](biostats1.html).
+- Basic R and Python data science skills 
+- BYOL (bring your own laptop) with R and Python installed.
+
+### More on R skills
+- using R as calculator
+- being able to work with vectors and matrices, incl. subsetting and matrices multiplication 
+- reading in data from .csv files, e.g. with read_csv()
+- printing top few rows or last few rows, e.g. with head() and tail()
+- using in-built summary functions such as sum(), min() or max()
+- being able to use documentation pages for R functions, e.g. with help() or ?()
+- using if else statements, writing simple loops and functions.
+- making simple plots (scatter plots, histograms), both with plot() and ggplot()
+- using tidyverse() for data transformations, e.g. filtering rows, selecting columns, creating new columns etc. 
+- being able to install CRAN packages e.g. with install.packages()
+- being familiar with R Markdown or Quatro format
+
+### More on Python skills
+- familiarity with Python syntax, loops, functions
+- numerical operations with NumPy for array and matrix computations
+- data manipulation with pandas
+- being able to visualise data using matplotlib and seaborn
 
 ## <img border="0" src="assets/icons/selection.svg" width="40" height="40"> Selection criteria
 
@@ -73,6 +77,7 @@ This national course is for PhD students, researchers, and university staff in S
 - Eva Freyhult «eva.freyhult@nbis.se»
 - Payam Emami «payam.emami@nbis.se»
 - Julie Lorent «julie.lorent@nbis.se»
+- Miguel Redondo «miguel.angel.redondo@nbis.se»
 - Mun-Gwan Hong «mungwan.hong@nbis.se»
 
 ## <img border="0" src="assets/icons/email.svg" width="40" height="40"> Contact us
