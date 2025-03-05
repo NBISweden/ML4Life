@@ -46,11 +46,17 @@
             <h2><a href="biostats1.html">Introduction to Biostatistics and Machine Learning</a></h2>
             <h2><a href="biostats2.html">Machine Learning for Life Sciences</a></h2>
             <h2><a href="LR.html">Learning resources</a></h2>
-            <h2><a href="https://www.scilifelab.se/units/nbis/">NBIS</a></h2>
-
-            <img src="assets/logos/nbis-orange.svg" alt="Sidebar Image" style="display: block; width: 200px; margin-left: 0;">
-            <img src="assets/logos/SciLifeLab_Logotype_Green_POS.jpg" alt="Sidebar Image" style="display: block; width: 200px; margin-left: 0;">
             
+            <br>
+
+            <a href="https://www.scilifelab.se/units/nbis/" target="_blank" rel="noopener noreferrer">
+                <img src="assets/logos/nbis-orange.svg" alt="Sidebar Image" style="display: block; width: 200px; margin-left: 0;">
+            </a>
+
+            <a href="https://www.scilifelab.se" target="_blank" rel="noopener noreferrer">
+              <img src="assets/logos/SciLifeLab_Logotype_Green_POS.jpg" alt="Sidebar Image" style="display: block; width: 200px; margin-left: 0;">
+            </a>
+
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
@@ -62,6 +68,9 @@
             </a>
           {% endif %}
 
+          <br>
+          <br>
+          
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
