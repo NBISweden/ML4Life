@@ -13,17 +13,18 @@ Currently, we run two courses, a basic one, Introduction to Biostatistics and Ma
 
 ## [Introduction to Biostatistics and Machine Learning](biostats1.html)
 
-National course open for PhD students, postdocs, researchers and other employees in need of biostatistical skills within all Swedish universities. The course is geared towards life scientists wanting to be able to understand and use basic statistical and machine learning methods. It would also suit those already applying biostatistical methods but have never got a chance to truly understand the basic statistical concepts, such as the commonly misinterpreted p-value.
+National course open for PhD students, postdocs, researchers and other employees in need of biostatistical skills within all Swedish universities. The course is geared towards life scientists wanting to be able to understand and use basic statistical and machine learning methods. It would also suit those already applying biostatistical methods but have never got a chance to truly understand the basic statistical concepts, such as the commonly misinterpreted p-value. 
 
 [Read more](biostats1.html)
 
 **Next course**: April, 07th - 11th, 2025
 
-<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">Apply
-<small>by March, 14th</small>
+<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
+    Apply
+    <small>by March, 14th</small>
 </a>
 
-
+<br>
 
 ## [Machine Learning for Life Sciences](biostats2.html)
 
@@ -34,8 +35,8 @@ This national course is for PhD students, researchers, and university staff in S
 **Next course**: June, 09th - 13th, 2025
 
 <a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
-Apply
-<small>by May, 2nd</small>
+    Apply
+    <small>by May, 2nd</small>
 </a>
 
 
