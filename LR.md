@@ -27,6 +27,8 @@ Below is a collection of some of the teaching materials we have prepared or foun
 
 <a href="https://nbisweden.github.io/workshop-mlbiostatistics/session-tidymodels/docs/intro.html" target="_blank" rel="noopener noreferrer">Tidymodels</a>
 
+<a href="https://nbisweden.github.io/workshop-mlbiostatistics/session-survival/docs/intro.html" target="_blank" rel="noopener noreferrer">Survival analysis</a>
+
 <br>
 
 [back](./)
