@@ -19,9 +19,10 @@ National course open for PhD students, postdocs, researchers and other employees
 
 **Next course:** April, 07th - 11th, 2025
 
-[https://uppsala.instructure.com/courses/98820](https://uppsala.instructure.com/courses/98820)
+<a href="https://uppsala.instructure.com/courses/98820" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/98820</a>
 
-<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
+
+<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6" target="_blank" rel="noopener noreferrer">
     Apply
     <small>by March, 14th</small>
 </a>
@@ -36,9 +37,9 @@ This national course is for PhD students, researchers, and university staff in S
 
 **Next course**: June, 09th - 13th, 2025
 
-[https://uppsala.instructure.com/courses/102428](https://uppsala.instructure.com/courses/102428)
+<a href="https://uppsala.instructure.com/courses/110506" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/110506</a>
 
-<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
+<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6" target="_blank" rel="noopener noreferrer noreferrer">
     Apply
     <small>by May, 2nd</small>
 </a>
