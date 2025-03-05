@@ -17,7 +17,7 @@ National course open for PhD students, postdocs, researchers and other employees
 
 [Read more](biostats1.html)
 
-**Next course**: April, 07th - 11th, 2025
+**Next course:** April, 07th - 11th, 2025
 
 <a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
     Apply
