@@ -17,6 +17,11 @@ National course open for PhD students, postdocs, researchers and other employees
 
 [Read more](biostats1.html)
 
+**Next course**: April, 07th - 11th, 2025
+
+<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">Apply</a>
+
+
 
 ## [Machine Learning for Life Sciences](biostats2.html)
 
@@ -24,8 +29,9 @@ This national course is for PhD students, researchers, and university staff in S
 
 [Read more](biostats2.html)
 
+**Next course**: June, 09th - 13th, 2025
 
-
+<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">Apply</a>
 
 
 
