@@ -151,23 +151,23 @@ aside a.apply-button {
   }
 
 .new-button {
-width: 150px;
-height: 50px;
-padding: 10px;
-font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-font-size: 20px;
-color: #fff;
-background-color: #2879d0; /* Change the background color as needed */
-border: 1px solid #2268b2; /* Change the border color as needed */
-text-align: center;
-line-height: 1.5;
-border-radius: 5px; /* Optional: Add rounded corners */
-transition: background-color 0.3s ease; /* Optional: Add a transition effect */
+    width: 150px;
+    height: 58px;
+    padding: 10px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 23px;
+    color: #fff;
+    background-color: #2879d0; /* Change the background color as needed */
+    border: 1px solid #2268b2; /* Change the border color as needed */
+    text-align: center;
+    line-height: 1.2;
+    border-radius: 5px; /* Optional: Add rounded corners */
+    transition: background-color 0.3s ease; /* Optional: Add a transition effect */
 }
   
-.new-button:hover {
-background-color: #2268b2; /* Change the hover background color as needed */
-}  
+/* .new-button:hover {
+    background-color: #2268b2; /* Change the hover background color as needed */
+}   */
 
 code, pre {
   margin-bottom: 30px;
