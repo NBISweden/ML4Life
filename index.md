@@ -39,7 +39,7 @@ This national course is for PhD students, researchers, and university staff in S
 
 <a href="https://uppsala.instructure.com/courses/110506" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/110506</a>
 
-<a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6" target="_blank" rel="noopener noreferrer noreferrer">
+<a class="new-button" href="https://forms.gle/nCnDvCRpVQMxHDTe7" target="_blank" rel="noopener noreferrer noreferrer">
     Apply
     <small>by May, 2nd</small>
 </a>
