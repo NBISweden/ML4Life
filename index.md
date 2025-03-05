@@ -19,6 +19,8 @@ National course open for PhD students, postdocs, researchers and other employees
 
 **Next course:** April, 07th - 11th, 2025
 
+[https://uppsala.instructure.com/courses/98820](https://uppsala.instructure.com/courses/98820)
+
 <a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
     Apply
     <small>by March, 14th</small>
@@ -33,6 +35,8 @@ This national course is for PhD students, researchers, and university staff in S
 [Read more](biostats2.html)
 
 **Next course**: June, 09th - 13th, 2025
+
+[https://uppsala.instructure.com/courses/102428](https://uppsala.instructure.com/courses/102428)
 
 <a class="new-button" href="https://forms.gle/YbuzL1VhqyHQmuSk6">
     Apply
