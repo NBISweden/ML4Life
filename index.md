@@ -5,7 +5,7 @@ layout: default
 
 Welcome to our landing page for week-long biostatistics and machine learning courses!
 
-- **For who?** For PhD students, researches, and university staff in Sweden who analyze life science research data.
+- **For who?** For PhD students, researchers, university staff, and professionals from the life science industry in Sweden who analyze research data.
 - **By whom?** By NBIS, SciLifeLab bioinformatics platform, Sweden.
 - **Where?** At Uppsala Biomedical Centre, Uppsala, Sweden.
 
