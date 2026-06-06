@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### 👋 Welcome
+# 👋 Welcome
 
 Welcome to our courses in biostatistics and machine learning for life sciences.
 
