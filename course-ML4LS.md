@@ -40,7 +40,7 @@ After completing the course, participants will be able to:
 
 ## <img border="0" src="assets/icons/enter.svg" width="40" height="40"> Entry requirements
 
-- Prior exposure to basic statistical concepts (e.g. descriptive statistics, linear regression) or having attended the [Statistical Methods for Life Sciences course](course-STATS.md.html) or alike.
+- Prior exposure to basic statistical concepts (e.g. descriptive statistics, linear regression) or having attended the [Statistical Methods for Life Sciences course](course-SM4LS.md.html) or alike.
 - Basic programming skills in R or Python, including working with data frames and running scripts.
 - Familiarity with data analysis environments such as RStudio or Jupyter Notebooks.
 
@@ -79,10 +79,9 @@ _No prior experience with machine learning is required._
 
 ## <img border="0" src="assets/icons/team.svg" width="40" height="40"> Teaching team
 
+- Payam Emami «payam.emami@nbis.se»
 - Olga Dethlefsen «olga.dethlefsen@nbis.se»
 - Eva Freyhult «eva.freyhult@nbis.se»
-- Payam Emami «payam.emami@nbis.se»
-- Julie Lorent «julie.lorent@nbis.se»
 - Mun-Gwan Hong «mungwan.hong@nbis.se»
 - Miguel Redondo «miguel.angel.redondo@nbis.se»
 

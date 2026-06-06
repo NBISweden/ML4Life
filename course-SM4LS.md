@@ -74,7 +74,6 @@ _No prior biostatistical knowledge is assumed._
 - Olga Dethlefsen «olga.dethlefsen@nbis.se»
 - Eva Freyhult «eva.freyhult@nbis.se»
 - Payam Emami «payam.emami@nbis.se»
-- Julie Lorent «julie.lorent@nbis.se»
 - Mun-Gwan Hong «mungwan.hong@nbis.se»
 - Miguel Redondo «miguel.angel.redondo@nbis.se»
 
