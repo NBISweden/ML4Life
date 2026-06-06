@@ -29,13 +29,13 @@ September, 07th - 11th, 2026
 <a href="https://uppsala.instructure.com/courses/119661" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/119661</a>
 
 <a class="new-button" href="https://forms.gle/zEZbaKiFZGTAoLzE7" target="_blank" rel="noopener noreferrer">
-    Apply
-    <small>by June, 26th</small>
+    Apply by June, 26th
 </a>
 
 <br>
 
-Cannot make it this time? Register your interest [here](https://forms.gle/YGvbhLgJDCg6WXydA).
+Cannot make it this time? Register your interest
+<a href ="https://forms.gle/YGvbhLgJDCg6WXydA" target="_blank">here</a>.
 
 ## [Machine Learning for Life Sciences](course-ML4LS.html)
 
@@ -55,4 +55,7 @@ October, 12th - 16th, 2026
     Apply by August, 28th
 </a>
 
-Cannot make it this time? Register your interest [here](https://forms.gle/5uazfqMzk8QAdGVs9).
+<br>
+
+Cannot make it this time? Register your interest
+<a href ="https://forms.gle/5uazfqMzk8QAdGVs9" target="_blank">here</a>.
