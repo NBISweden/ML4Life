@@ -26,7 +26,7 @@ Using real research examples, the course introduces core ideas of statistical in
 
 September, 07th - 11th, 2026
 
-<a href="https://uppsala.instructure.co7m/courses/119661" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/119661</a>
+<a href="https://uppsala.instructure.com/courses/119661" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/119661</a>
 
 <a class="new-button" href="https://forms.gle/zEZbaKiFZGTAoLzE7" target="_blank" rel="noopener noreferrer">
     Apply
