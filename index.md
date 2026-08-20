@@ -52,7 +52,7 @@ October, 12th - 16th, 2026
 <a href="https://uppsala.instructure.com/courses/122258" target="_blank" rel="noopener noreferrer">https://uppsala.instructure.com/courses/122258</a>
 
 <a class="new-button" href="https://forms.gle/xfdErb6F6YgvNmtd8" target="_blank" rel="noopener noreferrer noreferrer">
-    Apply by August, 28th
+    Apply by September, 4th
 </a>
 
 <br>
